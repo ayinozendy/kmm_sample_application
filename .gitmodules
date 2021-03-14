@@ -1,0 +1,3 @@
+[submodule "KmmSampleAndroid"]
+	path = KmmSampleAndroid
+	url = https://github.com/ayinozendy/kmm_sample_android.git
