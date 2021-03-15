@@ -1,0 +1,8 @@
+[submodule "KmmSampleAndroid"]
+	path = KmmSampleAndroid
+	url = https://github.com/ayinozendy/kmm_sample_android.git
+	branch = master
+[submodule "KmmSampleIos"]
+	path = KmmSampleIos
+	url = https://github.com/ayinozendy/kmm_sample_ios.git
+	branch = master
